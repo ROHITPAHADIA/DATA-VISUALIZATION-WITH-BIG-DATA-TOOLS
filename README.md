@@ -64,6 +64,8 @@ Basics of Power BI or Tableau
 
 How to load and clean a dataset inside Power BI
 
+![Image](https://github.com/user-attachments/assets/a9030289-be92-4575-bc12-c24827050310)
+
 Creating effective visualizations using charts and tables
 
 Making dashboards interactive with built-in filters
